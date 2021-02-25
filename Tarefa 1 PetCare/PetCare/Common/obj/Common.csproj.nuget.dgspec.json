@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj": {}
+    "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\TDS\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj": {
+    "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\TDS\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\TDS\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\TDS\\Tarefa 1 PetCare\\PetCare\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\barba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\Tarefa 1 PetCare\\PetCare\\Common\\obj\\",
+        "outputPath": "C:\\Users\\barba\\OneDrive\\Documentos\\GitHub\\TDS 2020.2\\TDS\\Tarefa 1 PetCare\\PetCare\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barba\\AppData\\Roaming\\NuGet\\NuGet.Config",

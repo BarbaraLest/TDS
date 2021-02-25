@@ -1,7 +1,7 @@
 ﻿using PetCare.Common.Notifications;
 
 
-namespace PetcCare.Common.Contracts
+namespace PetCare.Common.Contracts
 {
     public partial class Contract<T> : Notifiable<Notification>
     {
