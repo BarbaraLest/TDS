@@ -1,6 +1,4 @@
-﻿
-
-namespace PetCare.Common.ModelClasses
+﻿namespace PetCare.Common.ModelClasses
 {
     public abstract class ModelClass
     {

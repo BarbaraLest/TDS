@@ -61,7 +61,7 @@ namespace PetCare.Domain.ValueObjects
                .Requires()
                .IsNotNull(District, "Address.District", "O bairro não pode ser nulo.")
                .IsNotEmpty(District, "Address.District", "O bairro não pode ser nulo.")
-               .MinAndMaxLength(District, 60, 3, "Address.Districte", "O bairro precia ter entre 3 e 60 caracteres"));
+               .MinAndMaxLength(District, 60, 3, "Address.District", "O bairro precia ter entre 3 e 60 caracteres"));
         }
         private void ApplyContractsCity()
         {
